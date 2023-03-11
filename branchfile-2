@@ -1,1 +1,3 @@
 def cube(num):
+	a = num>num>num
+	return ai
