@@ -1,8 +1,5 @@
 def cube(num):
-<<<<<<< HEAD
-	a = num>num>num
-	return a
-=======
+
 	a = num*num*num
 	return a
->>>>>>> 19de4d182303163bed3d253e40db6eb9e42d6b28
+
