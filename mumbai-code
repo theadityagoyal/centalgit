@@ -6,3 +6,8 @@ output = 12
 
 print(a*b)
 output = 35
+
+def add(num1,num2):
+    a = num1
+    b = num2
+    return a+b
