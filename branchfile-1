@@ -1,0 +1,3 @@
+def square(num):
+	a = num*num
+	return a
